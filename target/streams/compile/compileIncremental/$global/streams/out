@@ -17,7 +17,7 @@
 [0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/kiris/Traning/IdeaProjects/Lesson_scala/target/scala-2.13/classes...[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.18:component from component compiler for Scala 2.13.10[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.18:component from component compiler for Scala 2.13.10[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 2cef4f83, interfacing (CompilerInterface) with Scala compiler version 2.13.10[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 4c76a8f5, interfacing (CompilerInterface) with Scala compiler version 2.13.10[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
 [0m[[0mdebug[0m] [0m	/home/kiris/.jdks/temurin-1.8.0_352/jre/lib/resources.jar:/home/kiris/.jdks/temurin-1.8.0_352/jre/lib/rt.jar:/home/kiris/.jdks/temurin-1.8.0_352/jre/lib/sunrsasign.jar:/home/kiris/.jdks/temurin-1.8.0_352/jre/lib/jsse.jar:/home/kiris/.jdks/temurin-1.8.0_352/jre/lib/jce.jar:/home/kiris/.jdks/temurin-1.8.0_352/jre/lib/charsets.jar:/home/kiris/.jdks/temurin-1.8.0_352/jre/lib/jfr.jar:/home/kiris/.jdks/temurin-1.8.0_352/jre/classes:/home/kiris/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.10.jar[0m
@@ -27,7 +27,7 @@
 [0m[[33mwarn[0m] [0m4 deprecations (since 2.13.0)[0m
 [0m[[33mwarn[0m] [0m5 deprecations in total; re-run with -deprecation for details[0m
 [0m[[33mwarn[0m] [0mthree warnings found[0m
-[0m[[0mdebug[0m] [0mScala compilation took 0.212028288 s[0m
+[0m[[0mdebug[0m] [0mScala compilation took 0.376256278 s[0m
 [0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
 [0m[[0mdebug[0m] [0m[naha] 	Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
