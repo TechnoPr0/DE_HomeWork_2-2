@@ -1,10 +1,10 @@
-var newList = (100000, 150000, 120000)
-newList[1]
-
-
-
-
-
-
-
+var i = 0
+def degreeOfTwo(num: Int): Int = {
+  if (num > 1) {
+    i += 1
+    degreeOfTwo(num / 2)
+  }
+  else i
+}
+println(degreeOfTwo(64))
 
